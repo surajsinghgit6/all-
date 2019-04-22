@@ -1,0 +1,47 @@
+#main
+{
+    width: 100%
+}
+#left
+{
+    float: left;
+    width: 25%;
+}
+#right
+{
+    float: left;
+    width:75%;
+    height: 770px;
+    background: url(../image/videoblocks-abstract-dark-background-honeycomb-grid-with-lighting-effect-for-technology_hsh9u2w5g_thumbnail-full01.png)
+}
+nav
+{
+    height: 900px;;
+    background:rgb(6, 22, 37);
+    border-radius: 5px;
+}
+ul {
+    list-style-type: none;
+  }
+li a
+{
+    text-decoration: none;
+    font-size: 36px;
+    color: white;
+}
+a:hover
+{
+    background:whitesmoke;
+    color: black;
+    border-radius: 10px;
+}
+body
+{
+    background: black;
+}
+h1
+{
+    text-decoration-style: dotted;
+    font: large;
+    color:silver;
+}
